@@ -20,7 +20,7 @@ The following additional options can be specified:
   --temperature         Temperature in Kelvin (default: 300).
   --omega-in            Incoming laser frequency in cm⁻¹ (default: 514nm converted to cm⁻¹).
   --smoothing           Smoothing type: gaussian, lorentzian, or none (default: lorentzian).
-  --sigma SIGMA         Smoothing width in cm⁻¹ (default: 10).
+  --sigma               Smoothing width in cm⁻¹ (default: 10).
   --include-prefactor   Inclusion of the factor 1/(1-e^(hbar*omega/kbT)) (default: false).
 ```
 
